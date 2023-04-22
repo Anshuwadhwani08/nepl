@@ -7,7 +7,7 @@ export default function Home() {
    <div className="bg-white">
   <div class="grid grid-cols-2 gap-4" >
   <img
-  src="\images\Screenshot (28).png" alt='dashboard' class="max-w-lg rounded border bg-white p-10 dark:border-neutral-700 dark:bg-neutral-1000"
+  src="\images\Screenshot (28).png" alt='dashboard' class="max-w-lg bg-white p-10  dark:bg-neutral-1000"
    />
   
     <div grid grid-flow-col auto-cols-max>    <h1 class="mt-20 text-3xl font-bold tracking-tight text-yellow-500 sm:text-5xl">WEBSITE </h1>
